@@ -1,2 +1,2 @@
 # Selenium Demo
-Demo Selenium project
+Demo Selenium project for my personal learning
